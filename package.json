@@ -1,6 +1,7 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,21 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "mongoose": "^5.11.16",
-    "morgan": "^1.9.1",
-    "path": "^0.12.7",
-    "uuid": "^8.3.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sudan20215/fitness_tracker.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/Sudan20215/fitness_tracker/issues"
-  },
-  "homepage": "https://github.com/Sudan20215/fitness_tracker#readme",
-  "description": ""
+    "express": "^4.16.3",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
+  }
 }
